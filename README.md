@@ -1,4 +1,4 @@
-# Universal Binary Principal (UBP) System v5.3 Merged
+# Universal Binary Principal (UBP) System v5
 
 The Universal Binary Principal (UBP) - an operationally complete computational framework that unifies fundamental physics, information theory, and abstract algebra through the unique mathematical structures of the Golay-Leech-Monster (GLM) triad.
 
@@ -319,26 +319,7 @@ Success rate: 100.00%
 ## Version History
 
 ### v5.3 Merged (17 February 2026)
-- **Merged** v4.2.6 and v5.2 features
-- **Added** comprehensive test suite (40 tests)
-- **Added** academic paper and documentation
-- **Added** SHA256 fingerprinting
-- **Restored** particle physics from v4.2.6
-- **Retained** construction system from v5.2
-- **Result**: 100% feature complete, 100% test pass
-
-### v5.2 Final (Pre-February 2026)
-- **Added** construction system (D, X, N, J)
-- **Added** triad activation engine
-- **Added** 759 octad extraction
-- **Removed** particle physics (restored in v5.3)
-
-### v4.2.6 Combined (10 January 2026)
-- **Added** 50-term π calculation
-- **Added** particle physics module
-- **Added** 7 law enhancements
-- **Added** ontological health metrics
-- **Float-free** calculations
+UBP is an iterative public development. See [https://github.com/DigitalEuan/UBP_Repo/tree/main/core_studio_v4.0] for the active research/development version
 
 ---
 
@@ -375,7 +356,7 @@ If you use UBP in your research, please cite:
   version = {5.3 Merged},
   year = {2026},
   month = {February},
-  url = {https://github.com/DigitalEuan/UBP_Repo}
+  url = {https://github.com/DigitalEuan/ubp_v5}
 }
 ```
 
@@ -383,16 +364,14 @@ If you use UBP in your research, please cite:
 
 ## Contact
 
-**Author:** Euan R A Craig  
-**Email:** info@digitaleuan.com  
-**Repository:** https://github.com/DigitalEuan/UBP_Repo  
-**Location:** New Zealand
+**Author:** Euan R A Craig, New Zealand
+**Repository:** [https://github.com/DigitalEuan/UBP_Repo](https://github.com/DigitalEuan/ubp_v5)  
 
 ---
 
 ## License
 
-**Status:** Pending (to be determined by author)
+**Status:** MIT with citation/reference
 
 **Current Use:**
 - Research: Permitted
@@ -408,31 +387,11 @@ This work builds on foundational mathematics by:
 - F.J. MacWilliams & N.J.A. Sloane (Golay code)
 - R.L. Griess (Monster group)
 - R. Borcherds (Moonshine theorem)
-
----
-
-## Final Notes
-
-### System Status
-✓ **Production Ready**  
-✓ **Fully Tested**  
-✓ **Scientifically Rigorous**  
-✓ **Empirically Validated**  
-
-### No Shortcuts
-- No fake implementations
-- No mock functions
-- No placeholders
-- No simplified parts
-
-**Everything is real, complete, and operational.**
-
----
-
-*"Reality is not merely described by mathematics—it is mathematics."* - E.R. Craig
+- The many researchers at academia.edu
+- The computational resources provided by Google, X, Qwen, Perplexity, Deepseek, Kimi
 
 ---
 
 **README Version:** 1.0  
 **Last Updated:** 17 February 2026  
-**Package Version:** v5.3 Merged (Production)
+**Package Version:** v5.3 Merged
