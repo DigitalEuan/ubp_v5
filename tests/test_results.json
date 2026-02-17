@@ -1,0 +1,288 @@
+{
+  "summary": {
+    "total": 40,
+    "passed": 40,
+    "failed": 0,
+    "success_rate": 100.0
+  },
+  "tests": [
+    {
+      "name": "\u03c0 calculation (50 terms)",
+      "passed": true,
+      "message": "\u03c0 = 3.141592653589793, error = 0.00e+00",
+      "data": {
+        "pi": 3.141592653589793,
+        "error": 0.0
+      }
+    },
+    {
+      "name": "Y * Y_inv = 1",
+      "passed": true,
+      "message": "Product = 1",
+      "data": {
+        "Y": 0.26467543040452696,
+        "Y_inv": 3.7782124259573746
+      }
+    },
+    {
+      "name": "Y_CONST defined",
+      "passed": true,
+      "message": "Y_CONST = 0.2321498103",
+      "data": {
+        "Y_CONST": 0.2321498103283058
+      }
+    },
+    {
+      "name": "Matrix-vector multiplication",
+      "passed": true,
+      "message": "Result: [1, 1, 0], Expected: [1, 1, 0]",
+      "data": null
+    },
+    {
+      "name": "Hamming weight",
+      "passed": true,
+      "message": "Weight: 5, Expected: 5",
+      "data": null
+    },
+    {
+      "name": "Hamming distance",
+      "passed": true,
+      "message": "Distance: 2, Expected: 2",
+      "data": null
+    },
+    {
+      "name": "Codeword count",
+      "passed": true,
+      "message": "Count: 4096",
+      "data": null
+    },
+    {
+      "name": "Octad count",
+      "passed": true,
+      "message": "Count: 759",
+      "data": null
+    },
+    {
+      "name": "All octads have weight 8",
+      "passed": true,
+      "message": "Verified 759 octads",
+      "data": null
+    },
+    {
+      "name": "Encode/decode round-trip",
+      "passed": true,
+      "message": "Message preserved, errors: 0",
+      "data": null
+    },
+    {
+      "name": "Error correction (2 errors)",
+      "passed": true,
+      "message": "Corrected 2 errors",
+      "data": null
+    },
+    {
+      "name": "Shadow processor metrics",
+      "passed": true,
+      "message": "12/12 split verified",
+      "data": null
+    },
+    {
+      "name": "Coherence snap (LAW_APP_001)",
+      "passed": true,
+      "message": "Snap triggered, distance: 1",
+      "data": null
+    },
+    {
+      "name": "Muon/electron mass ratio",
+      "passed": true,
+      "message": "Error: 0.000353%",
+      "data": {
+        "predicted": 206.76755240084483,
+        "experimental": 206.7682827,
+        "error_absolute": 0.000730299155151215,
+        "error_percent": 0.00035319689539173944,
+        "formula": "(1/Y)^4 + 3 - Y^4"
+      }
+    },
+    {
+      "name": "Proton/electron mass ratio",
+      "passed": true,
+      "message": "Error: 0.016779%",
+      "data": {
+        "predicted": 1836.4607680791742,
+        "experimental": 1836.15267343,
+        "error_absolute": 0.3080946491741088,
+        "error_percent": 0.016779359016948017,
+        "formula": "Optimized: 9 with sym3",
+        "base_coefficient": 9.0
+      }
+    },
+    {
+      "name": "Fine structure constant",
+      "passed": true,
+      "message": "Error: 0.001929%",
+      "data": {
+        "predicted": 137.0386431366994,
+        "experimental": 137.035999206,
+        "error_absolute": 0.002643930699377961,
+        "error_percent": 0.0019293694464937346,
+        "formula": "83 + Y_inv^3 + 1.5*Y^2"
+      }
+    },
+    {
+      "name": "Average prediction error",
+      "passed": true,
+      "message": "Average error: 0.006354%",
+      "data": {
+        "average_error": 0.006353975119611163
+      }
+    },
+    {
+      "name": "Leech dimension",
+      "passed": true,
+      "message": "Dimension: 24",
+      "data": null
+    },
+    {
+      "name": "Kissing number",
+      "passed": true,
+      "message": "Kissing number: 196560",
+      "data": null
+    },
+    {
+      "name": "Symmetry tax (LAW_SYMMETRY_001)",
+      "passed": true,
+      "message": "Tax: 4.676105",
+      "data": {
+        "tax": 4.676105164854324
+      }
+    },
+    {
+      "name": "Ontological health (LAW_SUBSTRATE_005)",
+      "passed": true,
+      "message": "Layers: ['Reality', 'Info', 'Activation', 'Potential', 'Global_NRCI']",
+      "data": {
+        "Reality": 0.4166666666666667,
+        "Info": 0.4166666666666667,
+        "Activation": 0.4166666666666667,
+        "Potential": 0.4166666666666667,
+        "Global_NRCI": 5.0
+      }
+    },
+    {
+      "name": "Float-free precision",
+      "passed": true,
+      "message": "All calculations use Fraction",
+      "data": null
+    },
+    {
+      "name": "Primitive creation",
+      "passed": true,
+      "message": "D and X primitives created",
+      "data": null
+    },
+    {
+      "name": "Construction path",
+      "passed": true,
+      "message": "Voxels: 4",
+      "data": null
+    },
+    {
+      "name": "Oscillatory detection",
+      "passed": true,
+      "message": "Path is oscillatory (D=X)",
+      "data": null
+    },
+    {
+      "name": "Tax calculation",
+      "passed": true,
+      "message": "Tax: 0.948599",
+      "data": null
+    },
+    {
+      "name": "UBP object creation",
+      "passed": true,
+      "message": "Vector: 8-weight",
+      "data": null
+    },
+    {
+      "name": "NRCI calculation",
+      "passed": true,
+      "message": "NRCI: 0.913359",
+      "data": null
+    },
+    {
+      "name": "Primitive seeding",
+      "passed": true,
+      "message": "Seeded 51 objects",
+      "data": null
+    },
+    {
+      "name": "Triad activation",
+      "passed": true,
+      "message": "Golay: True",
+      "data": null
+    },
+    {
+      "name": "Leech activation",
+      "passed": true,
+      "message": "Leech: True",
+      "data": null
+    },
+    {
+      "name": "Monster activation",
+      "passed": true,
+      "message": "Monster: True",
+      "data": null
+    },
+    {
+      "name": "Stable objects",
+      "passed": true,
+      "message": "Stable: 34",
+      "data": null
+    },
+    {
+      "name": "LAW_SYMMETRY_001: Symmetry Tax",
+      "passed": true,
+      "message": "Tax calculated: 4.676105",
+      "data": null
+    },
+    {
+      "name": "LAW_APP_001: Coherence Snap",
+      "passed": true,
+      "message": "Snap mechanism works",
+      "data": null
+    },
+    {
+      "name": "LAW_COMP_009: Shadow Processor",
+      "passed": true,
+      "message": "50/50 noumenal/phenomenal",
+      "data": null
+    },
+    {
+      "name": "LAW_SUBSTRATE_005: Ontological Health",
+      "passed": true,
+      "message": "Health metrics computed",
+      "data": null
+    },
+    {
+      "name": "LAW enhancements complete",
+      "passed": true,
+      "message": "7 laws implemented and tested",
+      "data": null
+    },
+    {
+      "name": "Full system integration",
+      "passed": true,
+      "message": "All components integrated",
+      "data": null
+    },
+    {
+      "name": "Atlas export/import",
+      "passed": true,
+      "message": "Exported 51 objects",
+      "data": null
+    }
+  ],
+  "errors": []
+}
