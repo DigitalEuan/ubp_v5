@@ -115,7 +115,7 @@ https://github.com/DigitalEuan/ubp_v5/
 │   └── test_results.json                     # Test output
 ├── docs/
 │   ├── UBP_System_Documentation.md           # User guide (16KB)
-│   ├── UBP_Academic_Paper.pdf                # Academic paper (20KB)
+│   ├── A Predictive System Of Everything Based on the Golay-Leech-Monster Triad.pdf
 └── data/
     ├── MathAtlas_v7_500plus.json             # 241 objects (267KB)
     └── ubp_system_kb_hardened_complete.json  # 2.3M entries (2.3MB)
