@@ -3,7 +3,7 @@
 
 # Universal Binary Principal (UBP) System v5
 
-The Universal Binary Principal (UBP) - an operationally complete computational framework that unifies fundamental physics, information theory, and abstract algebra through the unique mathematical structures of the Golay-Leech-Monster (GLM) triad.
+The Universal Binary Principal (UBP) - an operationally complete (but experimental) computational framework that unifies fundamental physics, information theory, and abstract algebra through the unique mathematical structures of the Golay-Leech-Monster (GLM) triad.
 
 **This is an experimental system**
 
@@ -40,8 +40,6 @@ The Universal Binary Principal is a fully implemented **System Of Everything** t
 2. **Unifies mathematics** through Golay-Leech-Monster triad
 3. **Self-activates** from simple primitives
 4. **Passes 100%** of comprehensive tests
-
-**This is not a theory — it is an operational system with empirical validation.**
 
 ---
 
@@ -105,6 +103,10 @@ Success rate: 100.00%
 - **Sporadic groups**: 26 groups (M₁₁ through Monster M)
 - **Iteration**: Stabilization loop
 - **Result**: Full activation in 1 iteration
+
+### 6. MOG and OffBits
+- **MOG**: Miracle Octad Generator [https://en.wikipedia.org/wiki/Miracle_Octad_Generator] - not implemented here but usually is part of the UBP
+- **OFFBits**: Four-layered data structure - not implemented here but usually is part of the UBP
 
 ---
 
@@ -337,7 +339,7 @@ UBP is an iterative public development. See [https://github.com/DigitalEuan/UBP_
 ## FAQ
 
 ### Q: Is this a "Theory of Everything"?
-**A:** No. It's a **System Of Everything**—fully implemented and testable, not just theoretical equations.
+**A:** No. It's a **System Of Everything** — fully implemented and testable, not just theoretical equations.
 
 ### Q: How accurate are the particle predictions?
 **A:** Average error of 0.006%, which is within experimental uncertainty for fundamental constants.
