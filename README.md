@@ -7,6 +7,8 @@ The Universal Binary Principal (UBP) - an operationally complete computational f
 
 **This is an experimental system**
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/DigitalEuan/ubp_v5)
+
 
 <img src="ubp_v5.png" alt="UBP" width="200">
 
