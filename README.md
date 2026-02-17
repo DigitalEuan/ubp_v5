@@ -1,6 +1,11 @@
+<img src="infographic_ubp_v5.png" alt="UBP" width="800">
+
+
 # Universal Binary Principal (UBP) System v5
 
 The Universal Binary Principal (UBP) - an operationally complete computational framework that unifies fundamental physics, information theory, and abstract algebra through the unique mathematical structures of the Golay-Leech-Monster (GLM) triad.
+
+<img src="ubp_v5.png" alt="UBP" width="200">
 
 **Complete System Of Everything Implementation**
 
